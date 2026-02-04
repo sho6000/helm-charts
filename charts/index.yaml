@@ -3,12 +3,12 @@ entries:
   qr-app:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-02-03T13:34:51.2433377+05:30"
+    created: "2026-02-04T10:05:22.2455927+05:30"
     description: A Helm chart to deploy QR Code Generator Application
-    digest: 241dd185d37724aa1c2d11eda0a8dba4c69221dfed4dfa53babb1d1b1fef26cb
+    digest: 6b79c8069a205336856c99f3f6d3291ba62f74e7dbf21125cab0eeef7f98e42c
     name: qr-app
     type: application
     urls:
     - qr-app-0.1.0.tgz
     version: 0.1.0
-generated: "2026-02-03T13:34:51.2411622+05:30"
+generated: "2026-02-04T10:05:22.2433745+05:30"
